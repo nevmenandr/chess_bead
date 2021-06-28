@@ -1,0 +1,5 @@
+include README.rst
+include LICENSE
+include chess_bead/src/example.pgn
+include chess_bead/src/poems.json
+include chess_bead/src/cwfs.ttf
