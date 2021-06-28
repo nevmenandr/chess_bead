@@ -1,0 +1,25 @@
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "chess_bead"
+author = "Boris Orekhov"
+author-email = "nevmenandr@gmail.com"
+home-page = "https://github.com/nevmenandr/chess_bead"
+classifiers = [
+    "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+    "Programming Language :: Python :: 3",
+    "Natural Language :: Chinese (Traditional)",
+]
+description-file = "README.rst"
+requires-python = ">=3.5"
+requires = [
+    "chess >=1.6.1",
+    "pillow>=7.0.0",
+    "imageio>=1.18.5"
+]
+
+[tool.black]
+line-length = 100
+

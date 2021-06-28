@@ -30,13 +30,13 @@ Quick start
 
     import chess_bead as cb
     
-    g = cb.Game()           # use random chess game from the example PGN 
-                            # file included in the package
-    verses = g.start_game() # get all the permutations in the poem
+    g = cb.Game()                       # use random chess game from the example PGN 
+                                        # file included in the package
+    verses = g.start_game()             # get all the permutations in the poem
     v = cb.Viz(verses, g.author, g.title)    # prepare visualization
-    v.gif()                 # make the GIF animation with the name 
-                            #'game.gif' in the working directory
-    del v                   # clean up the tmp dir
+    v.gif()                             # make the GIF animation with the name 
+                                        #'game.gif' in the working directory
+    del v                               # clean up the tmp dir
 
 
 Installation
