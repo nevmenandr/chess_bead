@@ -23,7 +23,9 @@ You can get the result texts and visualize it with the package.
 
 You can use custom game in PGN format. 
 
-Inspired by Das Glasperlenspiel by Hermann Hesse.
+.. note::
+
+    Inspired by Das Glasperlenspiel by Hermann Hesse.
 
 
 Quick start
