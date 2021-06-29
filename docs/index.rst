@@ -25,7 +25,7 @@ You can use custom game in PGN format.
 
 .. note::
 
-    Inspired by Das Glasperlenspiel by Hermann Hesse.
+    Inspired by `Das Glasperlenspiel` by Hermann Hesse.
 
 
 Quick start
