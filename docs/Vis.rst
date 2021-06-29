@@ -21,9 +21,9 @@ You can generate PNG files in the specific folder or in a temp directoy. By defa
 
 .. note::
 
-    All moves and positions (`verses`), author's name (`g.author`) and poem's title (`g.title`) are required.
+    All moves and positions (``verses``), author's name (``g.author``) and poem's title (``g.title``) are required.
 
-The path to the temp directory stored in a `path` attribute:
+The path to the temp directory stored in a ``path`` attribute:
 
 .. code:: python
 
@@ -50,15 +50,15 @@ PNG files
 
 You can specify:
 
-output_path
+**output_path**
   Location where PNG will be generated. Tmp directory by default.
-gif_path
+**gif_path**
   Location of the output GIF file. Working directory by default.
-gif_filename
-  Filename of the GIF. `game.gif` by default.
-duration
-  Duration of the animation. `2` by default. Make sense only for animated images.
-color
+**gif_filename**
+  Filename of the GIF. ``game.gif`` by default.
+**duration**
+  Duration of the animation. ``2`` by default. Make sense only for animated images.
+**color**
   Color coding of the move. Colored by default.
 
 .. code:: python

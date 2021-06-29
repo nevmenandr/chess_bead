@@ -55,7 +55,7 @@ The tool could be installed with pip
 Examples and Docs
 -------------------
 
-You can explore the `brief examples <https://github.com/nevmenandr/chess_bead/blob/main/example/Example.ipynb>`_ that could give you a clu. 
+You can explore the `brief examples <https://github.com/nevmenandr/chess_bead/blob/main/example/Example.ipynb>`_  that could give you a clue. 
 
 
 External resources
@@ -72,10 +72,3 @@ External resources
    Game
    Vis
    
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

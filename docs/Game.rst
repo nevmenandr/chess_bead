@@ -36,7 +36,7 @@ This will cause Python to choose a random poem from the collection and a random 
 Constructor parameters
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-You can choose a particular poem and game from the collection if you know their numbers. Parameters `chess_game` and `poem_num` accept only integers.
+You can choose a particular poem and game from the collection if you know their numbers. Parameters ``chess_game`` and ``poem_num`` accept only integers.
 
 .. code:: python
 
@@ -64,7 +64,7 @@ You can use your own chess game but not the Chinese text. These are the conditio
 Let the game begin
 -------------------
 
-To start the permutations in the poem, you must call the method `start_game`. It has no parameters, but be attentive, you must define a variable to keep the result of the game:
+To start the permutations in the poem, you must call the method ``start_game``. It has no parameters, but be attentive, you must define a variable to keep the result of the game:
 
 .. code:: python
 
@@ -82,7 +82,7 @@ The result is the list of objects. Each object contains the information about th
     >>> verses[5].hor1
     6
 
-Here you can see the object after the 5th move. This object has an attribute `lines`, which allows you to get an access to the position, and the coordinate attributes, e. g. `hor1` (horisontal coordinate on the board).
+Here you can see the object after the 5th move. This object has an attribute ``lines``, which allows you to get an access to the position, and the coordinate attributes, e. g. ``hor1`` (horisontal coordinate on the board).
 
 .. note::
 
@@ -101,19 +101,19 @@ Main attributes
 
 Using the attributes, we can access additional information about the poem and about the game.
 
-author
+**author**
   Author's of the poem name
-title
+**title**
   Poem's title
-event
+**event**
   Chess event where the game was played.
-date
+**date**
   Chess game's date.
-white
+**white**
   Who played white.
-black
+**black**
   Who played black.
-result
+**result**
   Who won.
 
 .. code:: python

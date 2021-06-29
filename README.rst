@@ -51,7 +51,7 @@ The tool could be installed with pip
 Examples and Docs
 -------------------
 
-You can explore the `brief examples <https://github.com/nevmenandr/chess_bead/blob/main/example/Example.ipynb`_ that could give you a clu. For the deep sinking read the `documentation <https://github.com/snowtraces/poetry-source>`_.
+You can explore the `brief examples <https://github.com/nevmenandr/chess_bead/blob/main/example/Example.ipynb>`_  that could give you a clue. For the deep sinking read the `documentation <https://github.com/snowtraces/poetry-source>`_.
 
 
 External resources
