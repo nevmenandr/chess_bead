@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to chess-bead's documentation!
-======================================
+Welcome to Chess Bead Game's documentation!
+================================================
 
 Description
 ----------------
@@ -52,18 +52,26 @@ The tool could be installed with pip
     pip3 install chess_bead
 
 
+Examples and Docs
+-------------------
+
+You can explore the `brief examples <https://github.com/nevmenandr/chess_bead/blob/main/example/Example.ipynb>`_ that could give you a clu. 
+
+
 External resources
 --------------------
  
 * The poems are taken from the collection `selected from this repository <https://github.com/snowtraces/poetry-source>`_.
-* The package uses cwTeXFangSong font licensed with SIL Open Font License (Version 1.1), `see <https://github.com/l10n-tw/cwtex-q-fonts>`_ 
-* `Compiled TTFs <https://github.com/l10n-tw/cwtex-q-fonts-TTFs>`_ 
+* The package uses cwTeXFangSong font licensed with SIL Open Font License (Version 1.1), `see here <https://github.com/l10n-tw/cwtex-q-fonts>`_ .
+* `Compiled TTFs <https://github.com/l10n-tw/cwtex-q-fonts-TTFs>`_ .
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
+   Game
+   Vis
+   
 
 Indices and tables
 ==================
