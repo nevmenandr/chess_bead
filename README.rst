@@ -50,7 +50,7 @@ The tool could be installed with pip
 
 
 External resources
-----------------
+----------------------
  
 * The poems are taken from the collection `selected from this repository <https://github.com/snowtraces/poetry-source>`_.
 * The package uses cwTeXFangSong font licensed with SIL Open Font License (Version 1.1), `see <https://github.com/l10n-tw/cwtex-q-fonts>`_ 
