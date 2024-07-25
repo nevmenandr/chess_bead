@@ -1,0 +1,37 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Chess Bead Game
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Boris
+    family-names: Orekhov
+    name-particle: Boris Orekhov
+    email: nevmenandr@gmail.com
+    affiliation: HSE University
+    orcid: 'https://orcid.org/0000-0002-9099-0436'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.12814015
+repository-code: 'https://github.com/nevmenandr/chess_bead'
+url: 'https://chess-bead.readthedocs.io/en/latest/'
+abstract: >-
+  Package for the both chess and Chinese poetry game. The
+  rules of the game involve chess moves from games in pgn
+  format. The board for the game is a Chinese poem of the
+  Tang era, in which the line is equal to 7 characters (the
+  last, 8th vertical is most often punctuation marks). When
+  a piece makes a move, the characters on the board change
+  places. The character on which the piece was is moved to
+  the place of the character to which the move was made.
+keywords:
+  - chess
+  - go game
+license: GPL-3.0
+commit: 484218477ea0348679e42ee53ee2b2c593d6f282
+version: 1.0.0
+date-released: '2021-09-06'
