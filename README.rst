@@ -2,7 +2,7 @@
   :target: https://doi.org/10.5281/zenodo.12814015
 |License| |Docs| |Contact| |Site|
 
-Chess Bead Game
+Chess Bead Game ♖♝♘♟️♕
 =================
 
 Description
